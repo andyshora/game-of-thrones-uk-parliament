@@ -1,0 +1,17 @@
+.paths {
+  svg {
+    width: 500px;
+    height: 500px;
+
+    background: black;
+  }
+
+  path {
+    stroke: url(#linear);
+    stroke-width: 2px;
+  }
+
+  circle {
+    fill: none;
+  }
+}
